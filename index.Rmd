@@ -1,0 +1,36 @@
+---
+  title: "Is Programming Relevant to CS1 Students’ Interests?"
+  author: "Kevin Buffardi and Subhed Chavan"
+  affiliation: "Computer Science Department, California State University-Chico"
+  output:
+    html_document:
+      toc: true
+---
+        
+## Presentation
+
+This is a brief summary of *Is Programming Relevant to CS1 Students’ Interests?*, presented at [Consortium for Computing Sciences in Colleges, Northwest 2021](http://www.ccsc.org/northwest/2021/) and published in the Journal of Computing Sciences in Colleges.
+
+## Research Questions
+
+1. What popular interests do students perceive as **relevant** to CS/coding? 
+2. What popular interests do students perceive as **not relevant** to CS/coding?
+3. Are there differences in how interested different genders and races are in common CS1 applications?
+4. Are there interests that uniquely appeal to gender and racial minorities?
+
+```{r, include=FALSE}
+library(DT)
+```
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE}
+relevance <- read.csv("relevance.csv")
+colnames(relevance) <- c("Interest","Relevant","Not Relevant","% Relevant")
+relevance$`Total` <- relevance$`Relevant` + relevance$`Not Relevant`
+datatable(relevance, options = list(
+  searching = FALSE,
+  pageLength = 15,
+  paging=FALSE
+  )
+)
+```
+        
