@@ -35,4 +35,15 @@ datatable(relevance, options = list(
   )
 )
 ```
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE}
+demographics <- read.csv("demographic.csv")
+colnames(demographics) <- c("Interest","Gender Majority","Gender Minority","Racial Majority", "Racial Minority","Major","Non-Major")
+datatable(demographics, options = list(
+  searching = FALSE,
+  pageLength = 15,
+  paging=FALSE
+  )
+)
+```
         
