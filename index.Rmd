@@ -1,5 +1,7 @@
 ---
-  title: "Is Programming Relevant to CS1 Students’ Interests?"
+  title: |
+   | Is Programming Relevant to
+   | CS1 Students’ Interests?
   author: "Kevin Buffardi and Subhed Chavan"
   affiliation: "Computer Science Department, California State University-Chico"
   output:
