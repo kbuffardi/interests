@@ -9,7 +9,7 @@
         
 ## Presentation
 
-This is a brief summary of *Is Programming Relevant to CS1 Students’ Interests?*, presented at [Consortium for Computing Sciences in Colleges, Northwest 2021](http://www.ccsc.org/northwest/2021/) and published in the Journal of Computing Sciences in Colleges.
+This is a brief summary of *Is Programming Relevant to CS1 Students’ Interests?*, presented at [Consortium for Computing Sciences in Colleges, Northwest 2021](http://www.ccsc.org/northwest/2021/) and published in the [Journal of Computing Sciences in Colleges, Volume 7, Number 1](https://www.ccsc.org/publications/journals/NW2021.pdf).
 
 This presentation page is available at [kbuffardi.github.io/interests](https://kbuffardi.github.io/interests/) and its source is available on [GitHub](https://github.com/kbuffardi/interests/).
 
@@ -37,7 +37,7 @@ Or import the following *BibTeX* reference:
 
 ![Bowling ball and pins](assets/bowling-pins.jpg)
 
-### Who do picture as a bowler?
+### Who do you picture as a bowler?
 
 Based on Google image searches alone, bowling might not be particularly diverse:
 
@@ -50,7 +50,7 @@ Based on Google image searches alone, bowling might not be particularly diverse:
 
 A **bowling score calculator is a prototypical assignment** for introductory programming courses.
 
-However, it may also be the epitome of an application of coding that lacks broad appeal and may reinforce stereotypes of coding classes' target audiences.
+However, it may also be the epitome of an application of coding that **lacks broad appeal** and may **reinforce stereotypes** of coding classes' target audiences.
 
 
 ## Research Questions
@@ -59,8 +59,8 @@ Investigated the following research questions:
 
 1. What *popular interests* do students perceive as **relevant** to CS/coding? 
 2. What *popular interests* do students perceive as **not relevant** to CS/coding?
-3. Are there differences in how interested different genders and races are in common CS1 applications?
-4. Are there interests that uniquely appeal to gender and racial minorities?
+3. Are there differences in **how interested different genders and races** are in common CS1 applications?
+4. Are there interests that **uniquely appeal to gender and racial minorities**?
 
 ## Method
 
@@ -205,13 +205,14 @@ Common applications in CS1 include **games**, **robots/microcontrollers**, and *
   * *Music/film/audio/visual* and *Arts/crafts* garnered more interest than majority counterparts
 * **Racial minority**
   * Proportionate interest in *athletics*, *music/film/audio/visual*, and *arts/crafts*
- * More interest in *reading*, *socializing*, *culinary*, and *sleeping/relaxing* than majority counterparts
+  * More interest in *reading*, *socializing*, *culinary*, and *sleeping/relaxing* than majority counterparts
  
 ## Conclusions
 
-* While games and STEM may be engaging to the current majority of students, emphasis on these applications are not likely to broaden participation among women and other gender minorities
-* Interests reinforce that media computation is a broadly appealing application of coding
-* Many interests are untapped in making coding relevant and meaningful
+* Games and STEM applications may be engaging to the current majority of students
+  * *but* emphasis on these applications are not as likely to interest women and other gender minorities. They may even be an *impediment* to broadening participation.
+* Interests expressed reinforce that *media computation* is a broadly appealing application of coding
+* *Many interests are untapped* in making coding relevant and meaningful
 * Future work in broadening participation through examples of more inclusive coding applications that are relevant to students' lives
   * *Coming soon to SIGCSE 2022...*
 
