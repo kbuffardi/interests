@@ -13,6 +13,26 @@ This is a brief summary of *Is Programming Relevant to CS1 Students’ Interests
 
 This presentation page is available at [kbuffardi.github.io/interests](https://kbuffardi.github.io/interests/) and its source is available on [GitHub](https://github.com/kbuffardi/interests/).
 
+### Full Paper
+
+The full paper is available via ACM Digital library *(link coming soon)*
+
+To cite this paper, use the following bibliography:
+
+>
+>
+> Bibliographic entry coming soon
+>
+>
+
+Or import the following *BibTeX* reference:
+
+>
+>
+> BibTeX reference coming soon
+>
+>
+
 ## Preface: Is bowling one of your hobbies or interests?
 
 ![Bowling ball and pins](assets/bowling-pins.jpg)
