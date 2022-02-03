@@ -2,36 +2,38 @@
   title: "Is Programming Relevant to CS1 Students’ Interests?"
   author: "Kevin Buffardi and Subhed Chavan"
   affiliation: "Computer Science Department, California State University-Chico"
-  output:
-    html_document:
-      toc: false
+  output: md_document
+  always_allow_html: true
 ---
         
 ## Presentation
 
 This is a brief summary of *Is Programming Relevant to CS1 Students’ Interests?*, presented at [Consortium for Computing Sciences in Colleges, Northwest 2021](http://www.ccsc.org/northwest/2021/) and published in the [Journal of Computing Sciences in Colleges, Volume 7, Number 1](https://www.ccsc.org/publications/journals/NW2021.pdf).
 
-This presentation page is available at [kbuffardi.github.io/interests](https://kbuffardi.github.io/interests/) and its source is available on [GitHub](https://github.com/kbuffardi/interests/).
+This presentation page is available at [learnbyfailure.com/interests](https://learnbyfailure.com/interests/) and its source is available on [GitHub](https://github.com/kbuffardi/interests/).
 
 ### Full Paper
 
-The full paper is available via ACM Digital library *(link coming soon)*
+The full paper is available via [ACM Digital library](https://dl.acm.org/doi/10.5555/3512469.3512475).
 
 To cite this paper, use the following bibliography:
 
->
->
-> Bibliographic entry coming soon
->
->
+> Kevin Buffardi and Subhed Chavan. 2021. Is programming relevant to CS1 students' interests? J. Comput. Sci. Coll. 37, 1 (October 2021), 45–53.
 
 Or import the following *BibTeX* reference:
 
->
->
-> BibTeX reference coming soon
->
->
+```
+ @article{buffardi2021programming,
+  title={Is programming relevant to CS1 students' interests?},
+  author={Buffardi, Kevin and Chavan, Subhed},
+  journal={Journal of Computing Sciences in Colleges},
+  volume={37},
+  number={1},
+  pages={45--53},
+  year={2021},
+  publisher={Consortium for Computing Sciences in Colleges}
+}
+```
 
 ## Preface: Is bowling one of your hobbies or interests?
 
